@@ -59,6 +59,23 @@ An example from both hateful and non-hateful tweets are:
 
 </div>
 
+***
+
+## Detailed Classification Report:
+
+| Measure  | Value | Derivations |
+| ------------- | ------------- | ------------ |
+| Sensitivity |	0.8037 |	TPR = TP / (TP + FN) |
+| Specificity |	0.8535 |	SPC = TN / (FP + TN) |
+| Precision   | 0.8716 |	PPV = TP / (TP + FP) |
+| Negative Predictive Value |	0.7785 |	NPV = TN / (TN + FN) |
+| False Positive Rate |	0.1465 | FPR = FP / (FP + TN) |
+| False Discovery Rate | 0.1284 | FDR = FP / (FP + TP) |
+| False Negative Rate | 0.1963 |	FNR = FN / (FN + TP) |
+| Accuracy |	0.8260 |	ACC = (TP + TN) / (P + N) |
+| F1 Score |	0.8363 |	F1 = 2TP / (2TP + FP + FN) |
+|Matthews Correlation Coefficient |	0.6536 |	TP*TN - FP*FN / sqrt((TP+FP)*(TP+FN)*(TN+FP)*(TN+FN)) |
+
 
 ***
 
