@@ -3,6 +3,17 @@
 
 This repository contains the source code for experimentation and the public dataset (train and test) of the Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages from 13th meeting of Forum for Information Retrieval Evaluation (FIRE 2021).
 
+***
+
+### File orders (post extraction) are:
+
+   ⦁ *Datasets for HASOC 2021* <br>
+   ⦁ *Images* <br>
+   ⦁ *Ktrain_BERT_HASOC_Final* <br>
+   ⦁ *conf_matrix* <br>
+   
+***
+
 The paper for the same is:
 
 ## [**Das, S., Mandal, P., & Chatterji, S. (2021). Probabilistic Impact Score Generation using Ktrain-BERT to Identify Hate Words from Twitter Discussions. arXiv preprint arXiv:2111.12939.**](https://arxiv.org/ftp/arxiv/papers/2111/2111.12939.pdf)
