@@ -5,7 +5,7 @@ This repository contains the source code for experimentation and the public data
 
 ***
 
-### File orders (post extraction) are:
+## File orders (post extraction) are:
 
    ⦁ *Datasets for HASOC 2021* <br>
    ⦁ *Images* <br>
@@ -14,13 +14,13 @@ This repository contains the source code for experimentation and the public data
    
 ***
 
-The paper for the same is:
+## The paper for the same is:
 
-## [**Das, S., Mandal, P., & Chatterji, S. (2021). Probabilistic Impact Score Generation using Ktrain-BERT to Identify Hate Words from Twitter Discussions. arXiv preprint arXiv:2111.12939.**](https://arxiv.org/ftp/arxiv/papers/2111/2111.12939.pdf)
+### [**Das, S., Mandal, P., & Chatterji, S. (2021). Probabilistic Impact Score Generation using Ktrain-BERT to Identify Hate Words from Twitter Discussions. arXiv preprint arXiv:2111.12939.**](https://arxiv.org/ftp/arxiv/papers/2111/2111.12939.pdf)
 
 Or,
 
-## [FIRE 2021 Working Notes](https://ceur-ws.org/Vol-3159/)
+### [FIRE 2021 Working Notes](https://ceur-ws.org/Vol-3159/)
 
 ***
 
