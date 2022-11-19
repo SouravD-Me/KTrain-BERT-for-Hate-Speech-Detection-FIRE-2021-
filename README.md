@@ -9,8 +9,8 @@ This repository contains the source code for experimentation and the public data
 
    ⦁ *Datasets for HASOC 2021* <br>
    ⦁ *Images* <br>
-   ⦁ *Ktrain_BERT_HASOC_Final* <br>
-   ⦁ *conf_matrix* <br>
+   ⦁ *Ktrain_BERT_HASOC_Final.ipynb* <br>
+   ⦁ *conf_matrix.py* <br>
    
 ***
 
