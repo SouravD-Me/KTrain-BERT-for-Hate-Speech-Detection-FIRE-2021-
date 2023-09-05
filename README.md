@@ -1,7 +1,7 @@
 # Probabilistic Impact Score Generation using Ktrain-BERT to Identify Hate Words from Twitter Discussions
 
 
-This repository contains the source code for experimentation and the public dataset (train and test) of the Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages from 13th meeting of Forum for Information Retrieval Evaluation (FIRE 2021).
+This repository contains the source code for experimentation and the public dataset (train and test) of the Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages from the 13th meeting of the Forum for Information Retrieval Evaluation (FIRE 2021).
 
 ***
 
