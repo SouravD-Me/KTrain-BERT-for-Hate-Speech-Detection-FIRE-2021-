@@ -92,12 +92,14 @@ An example from both hateful and non-hateful tweets are:
 
 ## Please cite the following paper if you utilize this dataset and/or the source-code in your research:
 
+```bibtex
 @article{das2021probabilistic,
   title={Probabilistic Impact Score Generation using Ktrain-BERT to Identify Hate Words from Twitter Discussions},
   author={Das, Sourav and Mandal, Prasanta and Chatterji, Sanjay},
   journal={arXiv preprint arXiv:2111.12939},
   year={2021}
 }
+```
 
 
 ***
